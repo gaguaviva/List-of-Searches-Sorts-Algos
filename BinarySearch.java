@@ -1,5 +1,3 @@
-package Main;
-
 public class BinarySearch {
 	public static int binarySearch (int[] array, int target) {
 		int low = 0;
