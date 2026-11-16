@@ -1,7 +1,3 @@
-// Name: Gabriel Victor Aguaviva
-
-package Main;
-
 public class QuickSort {
 
 	public static void quickSort (int[] array, int low, int high) {
